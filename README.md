@@ -1,0 +1,5 @@
+<h3><span style="background-color: #eccafa;">Instruction associated with assignment: <a style="background-color: #eccafa;" title="Semantic Tags" href="https://dsd.instructure.com/courses/1331407/pages/semantic-tags" data-course-type="wikiPages" data-published="false" data-api-endpoint="https://dsd.instructure.com/api/v1/courses/1331407/pages/semantic-tags" data-api-returntype="Page"><strong>Semantic Tags</strong></a></span></h3>
+        <p>The comments in the HTML code will tell you where to place semantic tags to fix the design of the website. As you add the semantic tags, the style of the page will begin to change to look more like the image of the page below. Refresh the page after you add each set of tags to see how it changes the webpage!&nbsp; <span style="text-decoration: underline;">Do not change any of the CSS code in the styles.css file.</span></p>
+        <p>You can find a list of all <a class="instructure_file_link inline_disabled" href="https://www.w3schools.com/html/html5_semantic_elements.asp" target="_blank" rel="noopener">HTML semantic tags here</a>.</p>
+    </div>
+</div>
